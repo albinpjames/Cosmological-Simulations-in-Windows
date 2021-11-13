@@ -1,4 +1,4 @@
->**Status:** Executables for N-GenIC & GADGET 2 generated need to run simultion 
+>**Status:** Executables for N-GenIC & GADGET 2 generated, need to run a sample simulation 
 # Cosmological Simulations
 ## Using WSL
 https://www.windowscentral.com/how-install-wsl2-windows-10
