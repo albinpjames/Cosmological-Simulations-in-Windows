@@ -1,5 +1,5 @@
 >**Status:** Executables for N-GenIC & GADGET 2 generated, need to run a sample simulation 
-# Cosmological Simulations
+# Cosmological Simulations In Windows
 ## Using Windows Subsytem For Linux (WSL)
 https://www.windowscentral.com/how-install-wsl2-windows-10
 
